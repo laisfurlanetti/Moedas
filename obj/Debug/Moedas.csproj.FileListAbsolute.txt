@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios funcao\Moedas\bin\Debug\Moedas.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios funcao\Moedas\bin\Debug\Moedas.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios funcao\Moedas\bin\Debug\Moedas.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios funcao\Moedas\obj\Debug\Moedas.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios funcao\Moedas\obj\Debug\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios funcao\Moedas\obj\Debug\Moedas.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios funcao\Moedas\obj\Debug\Moedas.pdb
